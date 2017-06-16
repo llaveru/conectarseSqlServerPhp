@@ -1,0 +1,16 @@
+<?php
+ 
+
+ if(resource sqlsrv_connect ( string $serverName [, array $connectionInfo ] )){
+ 	echo 'conexion establecida correctamente';
+
+ 	}	else
+ 	echo 'conexion erronea';
+
+
+
+
+
+
+
+?>
